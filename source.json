@@ -21,6 +21,12 @@
         "hai-vr/modular-avatar-as-code",
         "hai-vr/vcc-dependencies-for-vixen",
         "hai-vr/blendtree-viewer",
-        "hai-vr/modular-fury-please-behave"
+        "hai-vr/modular-fury-please-behave",
+        "hai-vr/resilience-toolkit",
+        "hai-vr/visual-expressions-editor-vcc",
+        "hai-vr/animation-viewer-vcc",
+        "hai-vr/blendshape-viewer-vcc",
+        "hai-vr/property-finder",
+        "hai-vr/lightbox-viewer"
     ]
 }
