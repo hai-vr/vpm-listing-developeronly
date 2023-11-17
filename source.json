@@ -20,6 +20,7 @@
         "hai-vr/animator-as-code-ndmf-processor",
         "hai-vr/modular-avatar-as-code",
         "hai-vr/vcc-dependencies-for-vixen",
-        "hai-vr/blendtree-viewer"
+        "hai-vr/blendtree-viewer",
+        "hai-vr/modular-fury-please-behave"
     ]
 }
