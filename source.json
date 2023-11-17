@@ -19,6 +19,7 @@
         "hai-vr/animator-as-code-vrchat-destructive-workflow",
         "hai-vr/animator-as-code-ndmf-processor",
         "hai-vr/modular-avatar-as-code",
-        "hai-vr/vcc-dependencies-for-vixen"
+        "hai-vr/vcc-dependencies-for-vixen",
+        "hai-vr/blendtree-viewer"
     ]
 }
