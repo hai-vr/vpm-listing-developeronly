@@ -1,32 +1,20 @@
 {
-    "name":"https://docs.hai-vr.dev",
-    "id":"dev.hai-vr.vpm",
-    "url":"https://hai-vr.github.io/vpm-listing/index.json",
+    "name":"https://docs.hai-vr.dev - DEVELOPER ONLY",
+    "id":"dev.hai-vr.vpm-developeronly",
+    "url":"https://hai-vr.github.io/vpm-listing-developeronly/index.json",
     "author":{
         "email":"hai-vr@users.noreply.github.com",
         "name":"Haï~",
         "url":"https://docs.hai-vr.dev/"
     },
-    "description":"Haï~ listing",
+    "description":"Haï~ listing - DEVELOPER ONLY",
     "infoLink":{
-        "url":"http://github.com/hai-vr/vpm-listing",
+        "url":"http://github.com/hai-vr/vpm-listing-developeronly",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hai-vr/av3-animator-as-code",
-        "hai-vr/animator-as-code-vrchat",
-        "hai-vr/animator-as-code-vrchat-destructive-workflow",
-        "hai-vr/animator-as-code-ndmf-processor",
-        "hai-vr/modular-avatar-as-code",
-        "hai-vr/vcc-dependencies-for-vixen",
-        "hai-vr/blendtree-viewer",
-        "hai-vr/modular-fury-please-behave",
-        "hai-vr/resilience-toolkit",
-        "hai-vr/visual-expressions-editor-vcc",
-        "hai-vr/animation-viewer-vcc",
-        "hai-vr/blendshape-viewer-vcc",
-        "hai-vr/property-finder",
-        "hai-vr/lightbox-viewer"
+        "hai-vr/resilience-libdep-ovr",
+        "hai-vr/resilience-semivr"
     ]
 }
