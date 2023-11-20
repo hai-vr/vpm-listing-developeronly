@@ -16,6 +16,7 @@
     "githubRepos":[
         "hai-vr/resilience-libdep-ovr",
         "hai-vr/resilience-base",
+        "hai-vr/resilience-kinematics",
         "hai-vr/resilience-semivr"
     ]
 }
