@@ -17,7 +17,6 @@
         "hai-vr/resilience-libdep-ovr",
         "hai-vr/resilience-base",
         "hai-vr/resilience-kinematics",
-        "hai-vr/resilience-semivr",
-        "hai-vr/fuck-osc-config"
+        "hai-vr/resilience-semivr"
     ]
 }
