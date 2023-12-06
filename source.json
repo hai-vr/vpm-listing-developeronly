@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "hai-vr/resilience-libdep-ovr",
-        "hai-vr/combo-gesture-expressions-av3"
+        "hai-vr/combo-gesture-expressions-av3",
+        "hai-vr/convert-combogesture-to-faceemo"
     ]
 }
