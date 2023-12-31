@@ -14,7 +14,6 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hai-vr/resilience-libdep-ovr",
-        "hai-vr/prefabulous-avatar"
+        "hai-vr/resilience-libdep-ovr"
     ]
 }
