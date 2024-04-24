@@ -15,7 +15,6 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "hai-vr/metabus",
-        "hai-vr/prefabulous-universal",
-        "hai-vr/denormalized-avatar-exporter"
+        "hai-vr/prefabulous-universal"
     ]
 }
