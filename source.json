@@ -17,6 +17,9 @@
         "hai-vr/metabus",
         "hai-vr/prefabulous-universal",
         "hai-vr/prefabulous-avatar",
-        "hai-vr/prefabulous-for-vrm"
+        "hai-vr/prefabulous-for-vrm",
+        "hai-vr/av3-animator-as-code",
+        "hai-vr/animator-as-code-vrchat",
+        "hai-vr/animator-as-code-vrchat-destructive-workflow"
     ]
 }
