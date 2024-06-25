@@ -14,6 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hai-vr/metabus"
+        "hai-vr/metabus",
+        "hai-vr/av3-animator-as-code",
+        "hai-vr/animator-as-code-vrchat"
     ]
 }
