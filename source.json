@@ -20,6 +20,8 @@
         "hai-vr/animator-as-code-vrchat-destructive-workflow",
         "hai-vr/modular-avatar-as-code",
         "hai-vr/animation-viewer-vcc",
-        "hai-vr/animator-as-code-ndmf-processor"
+        "hai-vr/animator-as-code-ndmf-processor",
+        "hai-vr/myrddin",
+        "hai-vr/myrddin-clientsim-vr"
     ]
 }
