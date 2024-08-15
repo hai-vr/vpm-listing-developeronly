@@ -14,14 +14,7 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hai-vr/metabus",
-        "hai-vr/av3-animator-as-code",
-        "hai-vr/animator-as-code-vrchat",
-        "hai-vr/animator-as-code-vrchat-destructive-workflow",
-        "hai-vr/modular-avatar-as-code",
-        "hai-vr/animation-viewer-vcc",
-        "hai-vr/animator-as-code-ndmf-processor",
-        "hai-vr/myrddin",
-        "hai-vr/myrddin-clientsim-vr"
+        "hai-vr/prefabulous-for-vrm",
+        "hai-vr/prefabulous-universal"
     ]
 }
