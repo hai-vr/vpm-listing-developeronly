@@ -14,6 +14,8 @@
     },
     "bannerUrl":"banner.png",
     "githubRepos":[
-        "hai-vr/h-view"
+        "hai-vr/h-view",
+        "hai-vr/prefabulous-universal",
+        "hai-vr/prefabulous-avatar"
     ]
 }
