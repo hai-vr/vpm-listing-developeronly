@@ -39,7 +39,6 @@
         "hai-vr/let-me-see",
         "hai-vr/external-expressions-menu",
         "hai-vr/h-view",
-        "bdunderscore/ndmf",
-        "bdunderscore/modular-avatar"
+        "bdunderscore/ndmf"
     ]
 }
