@@ -39,6 +39,7 @@
         "hai-vr/let-me-see",
         "hai-vr/external-expressions-menu",
         "hai-vr/h-view",
-        "bdunderscore/ndmf"
+        "bdunderscore/ndmf",
+        "vrchat/packages"
     ]
 }
