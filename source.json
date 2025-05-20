@@ -15,6 +15,7 @@
     "bannerUrl":"banner.png",
     "githubRepos":[
         "hai-vr/prefabulous-universal",
-        "hai-vr/prefabulous-for-platform-conversions"
+        "hai-vr/prefabulous-for-platform-conversions",
+        "hai-vr/lightbox-viewer"
     ]
 }
