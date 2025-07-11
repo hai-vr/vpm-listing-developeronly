@@ -27,5 +27,7 @@ jobs:
     uses: hai-vr/pristine-listing-action/.github/workflows/build-and-publish.yml@main
     permissions:
       contents: write
+      pages: write
+      id-token: write
     secrets:
       gh_token: ${{ secrets.GITHUB_TOKEN }}
