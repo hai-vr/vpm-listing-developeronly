@@ -28,4 +28,4 @@ jobs:
     permissions:
       contents: write
     secrets:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      gh_token: ${{ secrets.GITHUB_TOKEN }}
