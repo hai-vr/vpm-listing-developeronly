@@ -29,5 +29,8 @@ jobs:
       contents: write
       pages: write
       id-token: write
+    with:
+      excessiveMode: false
+      includeDownloadCount: true
     secrets:
       gh_token: ${{ secrets.GITHUB_TOKEN }}
