@@ -32,5 +32,6 @@ jobs:
     with:
       excessiveMode: false
       includeDownloadCount: true
+      devonly: true
     secrets:
       gh_token: ${{ secrets.GITHUB_TOKEN }}
