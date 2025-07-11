@@ -25,5 +25,7 @@ jobs:
   build-listing:
     name: build-listing
     uses: hai-vr/pristine-listing-action/.github/workflows/build-and-publish.yml@main
+    permissions:
+      contents: write
     secrets:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
