@@ -30,7 +30,6 @@ jobs:
       pages: write
       id-token: write
     with:
-      excessiveMode: false
       includeDownloadCount: true
       devonly: true
     secrets:
