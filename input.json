@@ -6,7 +6,8 @@
         "id": "dev.hai-vr.vpm-developeronly"
     },
     "settings" : {
-        "defaultIncludePrereleases" : true
+        "defaultIncludePrereleases" : true,
+        "excessiveModeToleratesPackageJsonAssetMissing" : true
     },
     "products": [
         { "repository" : "hai-vr/animation-viewer-vcc" },
