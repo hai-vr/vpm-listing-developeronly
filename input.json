@@ -7,6 +7,7 @@
     },
     "settings" : {
         "defaultIncludePrereleases" : true,
+        "defaultMode" : "PackageJsonAssetOnly",
         "excessiveModeToleratesPackageJsonAssetMissing" : true
     },
     "products": [
@@ -37,6 +38,7 @@
         { "repository" : "hai-vr/resilience-toolkit" },
         { "repository" : "hai-vr/vcc-dependencies-for-vixen" },
         { "repository" : "hai-vr/visual-expressions-editor-vcc" },
+        { "repository" : "vrchat/packages", "mode" : "ExcessiveAlways" },
         { "repository" : "bdunderscore/modular-avatar", "includePrereleases" : false, "onlyPackageNames": [ "nadena.dev.modular-avatar" ] }
     ]
 }
