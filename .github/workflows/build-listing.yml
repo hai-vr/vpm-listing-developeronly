@@ -30,7 +30,6 @@ jobs:
       pages: write
       id-token: write
     with:
-      includeDownloadCount: false
       devonly: true
     secrets:
       gh_token: ${{ secrets.GITHUB_TOKEN }}
