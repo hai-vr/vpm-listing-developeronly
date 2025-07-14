@@ -43,5 +43,9 @@
         { "repository" : "hai-vr/visual-expressions-editor-vcc" },
         { "repository" : "vrchat/packages", "mode" : "ExcessiveAlways" },
         { "repository" : "bdunderscore/modular-avatar", "includePrereleases" : false, "onlyPackageNames": [ "nadena.dev.modular-avatar" ] }
+    ],
+    "aggregateListings" : [
+        { "listingUrl" : "https://vpm.nadena.dev/vpm.json" },
+        { "listingUrl" : "https://vpm.anatawa12.com/vpm.json" }
     ]
 }
