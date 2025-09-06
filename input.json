@@ -16,7 +16,7 @@
         { "repository" : "hai-vr/upm-test-package", "mode" : "ExcessiveAlways" },
         { "repository" : "hai-vr/combo-gesture-expressions-av3" },
         { "repository" : "hai-vr/convert-combogesture-to-faceemo" },
-        { "repository" : "suzuryg/face-emo/releases", "mode" : "ExcessiveAlways" }
+        { "repository" : "suzuryg/face-emo", "mode" : "ExcessiveAlways" }
     ],
     "aggregateListings" : [
     ]
