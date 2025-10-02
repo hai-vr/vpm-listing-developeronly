@@ -17,7 +17,9 @@
         { "repository" : "hai-vr/combo-gesture-expressions-av3" },
         { "repository" : "hai-vr/convert-combogesture-to-faceemo" },
         { "repository" : "suzuryg/face-emo", "mode" : "ExcessiveAlways" },
-        { "repository" : "hai-vr/hvr-basis-avataroptimizer", "mode" : "ExcessiveAlways" }
+        { "repository" : "hai-vr/hvr-basis-avataroptimizer", "mode" : "ExcessiveAlways" },
+        { "repository" : "hai-vr/lightbox-viewer-urp" },
+        { "repository" : "hai-vr/lightbox-viewer" }
     ],
     "aggregateListings" : [
     ]
