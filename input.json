@@ -20,7 +20,8 @@
         { "repository" : "hai-vr/hvr-basis-avataroptimizer", "mode" : "ExcessiveAlways" },
         { "repository" : "hai-vr/lightbox-viewer-urp" },
         { "repository" : "hai-vr/lightbox-viewer" },
-        { "repository" : "hai-vr/constraint-tools" }
+        { "repository" : "hai-vr/constraint-tools" },
+        { "repository" : "hai-vr/chillaxins" }
     ],
     "aggregateListings" : [
     ]
