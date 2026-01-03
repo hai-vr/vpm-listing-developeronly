@@ -21,7 +21,8 @@
         { "repository" : "hai-vr/lightbox-viewer-urp" },
         { "repository" : "hai-vr/lightbox-viewer" },
         { "repository" : "hai-vr/constraint-tools" },
-        { "repository" : "hai-vr/chillaxins" }
+        { "repository" : "hai-vr/chillaxins" },
+        { "repository" : "hai-vr/animator-as-code-ndmf-processor" }
     ],
     "aggregateListings" : [
     ]
