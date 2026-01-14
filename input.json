@@ -22,7 +22,8 @@
         { "repository" : "hai-vr/lightbox-viewer" },
         { "repository" : "hai-vr/constraint-tools" },
         { "repository" : "hai-vr/chillaxins" },
-        { "repository" : "hai-vr/animator-as-code-ndmf-processor" }
+        { "repository" : "hai-vr/animator-as-code-ndmf-processor" },
+        { "repository" : "hai-vr/denormalized-avatar-exporter" }
     ],
     "aggregateListings" : [
     ]
