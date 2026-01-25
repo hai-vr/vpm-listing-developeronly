@@ -23,7 +23,8 @@
         { "repository" : "hai-vr/constraint-tools" },
         { "repository" : "hai-vr/chillaxins" },
         { "repository" : "hai-vr/animator-as-code-ndmf-processor" },
-        { "repository" : "hai-vr/denormalized-avatar-exporter" }
+        { "repository" : "hai-vr/denormalized-avatar-exporter" },
+        { "repository" : "hai-vr/hvr-ugc" }
     ],
     "aggregateListings" : [
     ]
