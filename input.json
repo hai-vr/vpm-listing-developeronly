@@ -20,7 +20,8 @@
         { "repository" : "hai-vr/hvr-basis-avataroptimizer", "mode" : "ExcessiveAlways" },
         { "repository" : "hai-vr/constraint-tools" },
         { "repository" : "hai-vr/prefabulous-universal" },
-        { "repository" : "hai-vr/hvr-ugc" }
+        { "repository" : "hai-vr/hvr-ugc" },
+        { "repository" : "hai-vr/transfer-assistant" }
     ],
     "aggregateListings" : [
     ]
